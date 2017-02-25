@@ -1,0 +1,43 @@
+==== WindowBackground ====
+16,16,16
+#101010
+Opacity:0.9
+
+Aurorae - window decoration background
+Kvantum - window backround
+
+==== LightWhite ====
+200,200,200
+#c8c8c8
+
+Aurorae - minimied active
+Aurorae - maximied active
+
+==== Gray ====
+128,128,128
+#808080
+
+Aurorae - minimize inactive
+Aurorae - maximize inactive
+
+==== Green ====
+64,200,64
+#40c840
+
+Aurorae - maximize hover
+Aurorae - maximize pressed
+
+==== Yellow ====
+200,200,64
+#c8c840
+
+Aurorae - minimize hover
+Aurorae - minimize pressed
+
+==== Red ====
+200,64,64
+#c84040
+
+Aurorae - close hover
+Aurorae - close pressed
+
