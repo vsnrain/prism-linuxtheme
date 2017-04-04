@@ -26,12 +26,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1048"
+     inkscape:window-height="1046"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.50196078"
@@ -43,11 +43,11 @@
      pagecolor="#808080"
      id="base"
      showgrid="true"
-     inkscape:zoom="0.70710675"
-     inkscape:cx="581.26387"
-     inkscape:cy="-61.226884"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="600.16035"
+     inkscape:cy="600.41184"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:current-layer="svg2"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -1408,15 +1408,14 @@
   </g>
   <g
      id="tooltip-normal"
-     transform="matrix(1.4375,0,0,1.34375,606.53333,-2806.95)"
-     style="opacity:0.9">
+     transform="matrix(1.4375,0,0,1.34375,606.53333,-2806.95)">
     <rect
        y="2373.8667"
        x="147.2"
        height="34.133335"
        width="34.133335"
        id="rect3850"
-       style="opacity:1;fill:#262630;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672" />
+       style="opacity:0.8;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672" />
   </g>
   <g
      style="fill-rule:evenodd;stroke:none"
@@ -2246,7 +2245,7 @@
      id="button-toggled"
      style="color:#eff0f1;opacity:1;fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:1.06666672" />
   <g
-     transform="translate(568,-315.73335)"
+     transform="translate(519.99998,-359.46666)"
      id="splitter-grip-focused"
      style="opacity:0;fill-rule:evenodd;stroke:none">
     <path
@@ -2311,7 +2310,7 @@
   <g
      style="opacity:0;fill-rule:evenodd;stroke:none"
      id="splitter-grip-normal"
-     transform="translate(566.75059,-312.25477)">
+     transform="translate(530.66665,-359.46666)">
     <path
        inkscape:connector-curvature="0"
        style="fill:#bebebe;fill-opacity:1;stroke-width:1.06666672"
@@ -3178,27 +3177,25 @@
        sodipodi:cy="-831.55634"
        sodipodi:cx="759.14886"
        id="path4105-8-02-0"
-       style="color:#eff0f1;opacity:0.9;fill:#262630;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="color:#eff0f1;opacity:0.8;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        sodipodi:type="arc"
        class="ColorScheme-Background" />
   </g>
   <g
      id="tooltip-normal-top"
-     transform="matrix(0.83636364,0,0,1.2307681,1460.2886,-640.5196)"
-     style="opacity:1">
+     transform="matrix(0.83636364,0,0,1.2307681,1460.2886,-640.5196)">
     <path
        style="color:#eff0f1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05133963"
        d="m -767.79431,827.2234 v 0.86667 h 58.66667 v -0.86667 z"
        id="rect4117-4-8"
        inkscape:connector-curvature="0" />
     <rect
-       style="color:#eff0f1;opacity:0.9;fill:#262630;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="color:#eff0f1;opacity:0.8;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="rect4117-4-7-1"
        width="58.666668"
        height="3.46667"
        x="-767.79431"
-       y="828.0896"
-       class="ColorScheme-Background" />
+       y="828.0896" />
   </g>
   <g
      id="tooltip-normal-left"
@@ -3209,7 +3206,7 @@
        id="rect4115-6-68"
        inkscape:connector-curvature="0" />
     <rect
-       style="color:#eff0f1;opacity:0.9;fill:#262630;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="color:#eff0f1;opacity:0.8;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="rect4115-6-6-2"
        width="9.6888943"
        height="22.400095"
@@ -6121,22 +6118,21 @@
        inkscape:connector-curvature="0" />
     <path
        class="ColorScheme-Background"
-       sodipodi:type="arc"
-       style="color:#eff0f1;opacity:0.9;fill:#262630;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="color:#eff0f1;opacity:0.8;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="path7714"
        sodipodi:cx="759.1488"
        sodipodi:cy="-831.55634"
        sodipodi:rx="9.6888943"
-       sodipodi:ry="3.46667"
        d="m 768.8377,-831.55634 a 9.6888943,3.46667 0 0 1 -9.6889,3.46667 l 0,-3.46667 z"
-       sodipodi:start="0"
        sodipodi:end="1.5707963"
+       sodipodi:type="arc"
+       sodipodi:start="0"
+       sodipodi:ry="3.46667"
        transform="scale(-1)" />
   </g>
   <g
      transform="matrix(-0.44036669,0,0,2.0476103,529.089,-1341.6519)"
-     id="tooltip-normal-right"
-     style="opacity:1">
+     id="tooltip-normal-right">
     <path
        style="color:#eff0f1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.12330544"
        d="m -777.48313,842.24318 v 22.40009 h -2.42222 v -22.40009 z"
@@ -6149,7 +6145,7 @@
        height="22.400095"
        width="9.6888943"
        id="rect7720"
-       style="color:#eff0f1;opacity:0.9;fill:#262630;fill-opacity:1;stroke:none;stroke-width:1.06666672" />
+       style="color:#eff0f1;opacity:0.8;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.06666672" />
   </g>
   <g
      transform="matrix(0.44036669,0,0,-1.2307681,1152.4372,1452.253)"
@@ -6162,7 +6158,7 @@
     <path
        class="ColorScheme-Background"
        sodipodi:type="arc"
-       style="color:#eff0f1;opacity:0.9;fill:#262630;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="color:#eff0f1;opacity:0.8;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="path7726"
        sodipodi:cx="759.14886"
        sodipodi:cy="-831.55634"
@@ -6188,7 +6184,7 @@
        height="3.46667"
        width="58.666668"
        id="rect7732"
-       style="color:#eff0f1;opacity:0.9;fill:#262630;fill-opacity:1;stroke:none;stroke-width:1.06666672" />
+       style="color:#eff0f1;opacity:0.8;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.06666672" />
   </g>
   <g
      id="tooltip-normal-bottomright"
@@ -6208,7 +6204,7 @@
        sodipodi:cy="-831.55634"
        sodipodi:cx="759.1488"
        id="path7738"
-       style="color:#eff0f1;opacity:0.9;fill:#262630;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="color:#eff0f1;opacity:0.8;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        sodipodi:type="arc"
        class="ColorScheme-Background" />
   </g>
@@ -6217,7 +6213,7 @@
      x="809.59998"
      y="525.8667"
      height="42.666668"
-     style="opacity:0.9;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+     style="opacity:0.8;fill:#101010;fill-opacity:1"
      id="window-normal" />
   <rect
      width="21.333334"
@@ -6689,7 +6685,7 @@
   </g>
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.9;fill:#101010;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06666672"
+     style="opacity:0.8;fill:#101010;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06666672"
      id="menu-normal"
      d="m 643.70275,106.59187 h 51.2 v 51.20001 h -51.2 z" />
   <g

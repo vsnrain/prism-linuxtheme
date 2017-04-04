@@ -1,7 +1,7 @@
 ==== WindowBackground ====
 16,16,16
 #101010
-Opacity:0.9
+Opacity:0.8
 
 Aurorae - window decoration background
 Kvantum - window backround
