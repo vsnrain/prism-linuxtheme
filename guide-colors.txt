@@ -6,6 +6,29 @@ Opacity:0.8
 Aurorae - window decoration background
 Kvantum - window backround
 
+==== MainBlue ====
+30,120,200
+#1e78c8
+
+PlasmaTasks - normal
+Kvantum - checkbox-bg
+Kvantum - radiobutton-bg
+
+==== MainBlue - Lighter ====
+80,180,245
+#50b4f5
+
+PlasmaTasks - hover
+PlasmaTasks - active
+Kvantum - checkbox-hover
+Kvantum - radiobutton-hover
+
+==== MainBlue - Darker ====
+5,85,160
+#055596
+
+PlasmaTasks - minimized
+
 ==== LightWhite ====
 200,200,200
 #c8c8c8
@@ -21,18 +44,19 @@ Aurorae - minimize inactive
 Aurorae - maximize inactive
 
 ==== Green ====
-64,200,64
-#40c840
+100,200,100
+#64c864
 
 Aurorae - maximize hover
 Aurorae - maximize pressed
 
-==== Yellow ====
-200,200,64
-#c8c840
+==== Yellow ==== !!!!!!!!!!!
+220,160,40
+#dca028
 
 Aurorae - minimize hover
 Aurorae - minimize pressed
+PlasmaTasks - alert
 
 ==== Red ====
 200,64,64
