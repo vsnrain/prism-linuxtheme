@@ -327,10 +327,10 @@ text.focus.color=#d3dae3
 text.press.color=#d3dae3
 frame.element=menu
 frame=true
-frame.top=6
-frame.bottom=6
-frame.left=6
-frame.right=6
+frame.top=8
+frame.bottom=8
+frame.left=8
+frame.right=8
 interior.element=menu
 
 [MenuItem]
