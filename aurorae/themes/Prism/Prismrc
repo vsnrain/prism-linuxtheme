@@ -23,19 +23,19 @@ PaddingBottom=12
 PaddingLeft=12
 PaddingRight=12
 
-BorderLeft=1
-BorderRight=1
-BorderBottom=1
+BorderLeft=4
+BorderRight=4
+BorderBottom=4
 
 TitleHeight=14
 
 TitleBorderLeft=1
 TitleBorderRight=1
 
-TitleEdgeTop=1
-TitleEdgeLeft=1
-TitleEdgeRight=1
-TitleEdgeBottom=1
+TitleEdgeTop=2
+TitleEdgeLeft=6
+TitleEdgeRight=6
+TitleEdgeBottom=2
 
 TitleEdgeTopMaximized=1
 TitleEdgeBottomMaximized=1
