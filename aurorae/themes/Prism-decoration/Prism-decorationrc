@@ -18,10 +18,10 @@ TitleVerticalAlignment=Center
 UseTextShadow=true
 
 [Layout]
-PaddingTop=12
-PaddingBottom=12
-PaddingLeft=12
-PaddingRight=12
+PaddingTop=9
+PaddingBottom=9
+PaddingLeft=9
+PaddingRight=9
 
 BorderLeft=4
 BorderRight=4
@@ -33,9 +33,9 @@ TitleBorderLeft=1
 TitleBorderRight=1
 
 TitleEdgeTop=2
-TitleEdgeLeft=6
-TitleEdgeRight=6
-TitleEdgeBottom=2
+TitleEdgeLeft=4
+TitleEdgeRight=4
+TitleEdgeBottom=4
 
 TitleEdgeTopMaximized=1
 TitleEdgeBottomMaximized=1
