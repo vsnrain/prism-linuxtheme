@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.7895439"
-     inkscape:cx="32.5715"
-     inkscape:cy="30.531192"
+     inkscape:zoom="6.7734379"
+     inkscape:cx="158.55993"
+     inkscape:cy="69.331017"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -275,7 +275,7 @@
          sodipodi:nodetypes="ccccccccc"
          id="path3480-7"
          d="m 4.4999994,0.001043 c -1.8749998,1.2e-7 -2.4999998,0.62500012 -2.4999998,2.5 v 5.0000001 h 0.625 v -5 c 0,-1.25 0.625,-1.87499998 1.8750001,-1.87499998 h 5.0000004 v -0.625 z"
-         style="opacity:1;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="decoration-inactive-topright"
@@ -288,7 +288,7 @@
          sodipodi:nodetypes="cccccc" />
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="M 45.50007,0.001043 C 46.750105,0.00116185 48.00014,0.62614665 48,2.5011038 l 1.4e-4,4.9998757 H 47.375122 V 2.5011011 c 0,-1.2499696 -0.625017,-1.87495445 -1.875053,-1.87495445 h -5.00014 c 10e-7,-0.10418394 0,-0.52080086 0,-0.6249848 z"
          id="path3504-5"
          sodipodi:nodetypes="ccccccccc" />
@@ -305,7 +305,7 @@
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc"
-         style="opacity:1;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03220642"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03220642"
          d="m 9.9999996,5e-7 -1e-7,0.62485899 H 41.999999 L 41.997949,5e-7 c -0.03444,0 0.01205,0 0,0 -10.665982,1.3025e-4 -21.331969,-4.1982e-4 -31.9979494,0 z"
          id="path3506-6" />
     </g>
@@ -331,7 +331,7 @@
       <path
          id="path2706-2"
          d="m 2.6251383,5.999998 v 32 H 2.000148 v -32 z"
-         style="opacity:1;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03279555"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03279555"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
     </g>
@@ -347,7 +347,7 @@
       <path
          id="path2706-6-1"
          d="M 2.6249995,7.9999527 V 39.999995 l -0.6248515,3e-6 v -32 z"
-         style="opacity:1;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03279555"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03279555"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
     </g>
@@ -361,7 +361,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0" />
       <path
-         style="opacity:1;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03273916"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03273916"
          d="m 2.9967285,67.374931 0.00349,0.625029 c 10.6654995,1.6e-5 21.3310035,-1.9e-5 31.9965075,0 l 10e-7,-0.625029 z"
          id="path3490-9-1-4"
          sodipodi:nodetypes="ccccc"
@@ -381,7 +381,7 @@
          sodipodi:nodetypes="cccccccccc"
          id="path3482-9-5-6"
          d="m -4.000022,61.499851 1e-7,4.999999 c 0,1.875001 0.625002,2.500001 2.5000078,2.500001 h 4.9999999 l 1.58e-5,-0.625 h -5.0000157 c -1.2500039,0 -1.8750058,-0.625001 -1.8750058,-1.875001 v -5 l -0.6250021,-7e-6 z"
-         style="opacity:1;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="decoration-inactive-bottomright"
@@ -397,7 +397,7 @@
          sodipodi:nodetypes="ccccccccc"
          id="path3482-9-5-3-7"
          d="m -1.4999372,69.000147 h 5.0001697 v -0.625019 h -5.0001697 c -1.2500424,0 -1.8750636,-0.625019 -1.8750636,-1.875058 V 61.499916 H -4.000022 v 5.000154 c 0,1.875058 0.6250212,2.500077 2.5000848,2.500077 z"
-         style="opacity:1;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
   </g>
 </svg>
